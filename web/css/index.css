@@ -1,0 +1,164 @@
+.fullLoginRow{
+	padding-left: 40px;
+	padding-right: 40px;
+	top: 20%;
+	position: relative;
+}
+.mainHeading{
+	font-family: esteban;
+	color: rgba(14,29,191,1.00);
+	text-align: center;
+	font-weight: 600;
+	text-transform: uppercase;
+	letter-spacing: 8px;
+	font-style: normal;
+}
+.email{
+	width: 100%;
+	font-size: 100%;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	background-image: -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(239,239,239,1.00) 91.19%,rgba(207,207,207,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(239,239,239,1.00) 91.19%,rgba(207,207,207,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(239,239,239,1.00) 91.19%,rgba(207,207,207,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(239,239,239,1.00) 91.19%,rgba(207,207,207,1.00) 100%);
+	font-family: adamina;
+	font-weight: 400;
+	color: rgba(83,83,83,1.00);
+	font-style: normal;
+	max-height: 35px;
+}
+.password{}
+.submitBtn {
+	width: 100%;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	font-size: 120%;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	color: rgba(255,255,255,1.00);
+	background-image: url(url), -webkit-linear-gradient(270deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	background-image: url(url), -moz-linear-gradient(270deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	background-image: url(url), -o-linear-gradient(270deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	background-image: url(url), linear-gradient(180deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+}
+.submitBtn2{
+	width: 100%;
+	font-size: 100%;
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	color: rgba(255,255,255,1.00);
+	background-image: url(url), -webkit-linear-gradient(270deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	background-image: url(url), -moz-linear-gradient(270deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	background-image: url(url), -o-linear-gradient(270deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	background-image: url(url), linear-gradient(180deg,rgba(35,0,151,1.00) 0%,rgba(0,24,167,1.00) 100%);
+	
+	}
+.submitBtn:hover{
+	color: rgba(255,255,255,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+}
+.submitBtn2:hover{
+	color: rgba(255,255,255,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(0,41,156,1.00) 0%,rgba(0,0,0,1.00) 100%);
+}
+.ImageRow {
+	background-image: url(../Img/c2.png);
+	overflow-y: auto;
+	overflow-x: auto;
+	height: 720px;
+}
+.fullBody {
+	height: 100%;
+	overflow-y: auto;
+	width: 100%;
+	overflow-x: auto;
+	background-image: url(../Img/c4.png);
+}
+.LoginCol {
+	background-color: rgba(255,255,255,1.00);
+	height: 100%;
+	overflow-y: auto;
+	position: fixed;
+	right: 0%;
+	bottom: 0%;
+	top: 0%;
+}
+.ImgCol {
+	position: fixed;
+	left: 0%;
+	top: 0%;
+	bottom: 0%;
+	background-image: url(../Img/c1.png);
+}
+.errorMsg{
+	color: rgba(213,0,3,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 120%;
+	text-align: left;
+	min-height: 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+.forgotPassword {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 120%;
+	text-align: left;
+	color: rgba(0,36,255,1.00);
+}
+*::-webkit-input-placeholder {
+    color:rgba(83,83,83,1.00);
+}
+*:-moz-placeholder {
+    color: rgba(83,83,83,1.00);
+}
+*::-moz-placeholder {
+    color: rgba(83,83,83,1.00);
+}
+*:-ms-input-placeholder {
+    color: rgba(83,83,83,1.00);
+}
+
+
+
+#hideMe {
+    -moz-animation: cssAnimation 0s ease-in 5s forwards;
+    /* Firefox */
+    -webkit-animation: cssAnimation 0s ease-in 5s forwards;
+    /* Safari and Chrome */
+    -o-animation: cssAnimation 0s ease-in 5s forwards;
+    /* Opera */
+    animation: cssAnimation 0s ease-in 5s forwards;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        overflow:hidden;
+    }
+}
+@-webkit-keyframes cssAnimation {
+    to {
+        width:0;
+        height:0;
+        visibility:hidden;
+    }
+}

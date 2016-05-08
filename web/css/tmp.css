@@ -1,0 +1,176 @@
+@charset "utf-8";
+#leftCol{
+	position: relative;
+	left: 0%;
+	top: 30%;
+	bottom: 0%;
+}
+#rightCol{
+	top: 0%;
+	bottom: 0%;
+	right: 0%;
+}
+.tableRow {
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 20px;
+	max-height: 400px;
+	overflow-y: scroll;
+	overflow-x: auto;
+}
+.EmpImage{
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 39px;
+}
+.empImgFile {
+
+}
+.empData {
+	color: rgba(0,0,0,1.00);
+	font-family: "FS Lola";
+	font-size: 135%;
+	text-align: left;
+	font-weight: 500;
+	margin-left: 80px;
+}
+.TotalDetails{
+	padding-right: 10px;
+	padding-left: 10px;
+	font-family: "FS Lola";
+	font-size: 130%;
+	margin-top: 50px;
+	
+	
+}
+.timeKeeperRow {
+	margin-top: 20%;
+
+}
+.timekeepertext {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.timeKeeperHeading {
+	text-align: center;
+	font-family: "FS Lola";
+	font-size: xx-large;
+}
+.CalculatedText {
+	font-family: adamina;
+	font-style: normal;
+	font-weight: 500;
+	font-size: 105%;
+	text-align: justify;
+	color: rgba(0,0,0,1.00);
+}
+.findEmpH{
+	font-family: "FS Lola";
+	text-align: center;
+	margin-left: 10px;
+	padding-left: 30px;
+}
+.findPerson{}
+.SearchData{
+	color: rgba(0,0,0,1.00);
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-style: normal;
+	font-size: small;
+	text-align: justify;
+}
+.logOut {
+	width: 100%;
+	font-size: medium;
+	-webkit-box-shadow: 0px 0px 0px 0px;
+	box-shadow: 0px 0px 0px 0px;
+	background-color: rgba(255,255,255,1.00);
+	border-style: hidden;
+	border-color: rgba(255,255,255,1.00);
+}
+.formTableqq {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.headingqq {
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 28px;
+}
+.fullRowqq {
+	padding: 15px;
+}
+.fullColqq {
+	padding-bottom: 15px;
+}
+.formTDqq{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.formFieldsqq{
+	margin-top: 9px;
+	margin-bottom: 9px;
+}
+.trqq{
+	margin-top: 10px;
+}
+.formTextqq{
+	margin-top: 15px;
+	color: rgba(16,30,142,1.00);
+	text-align: left;
+}
+.editProf {
+	color: rgba(195,195,195,1.00);
+	background-color: rgba(0,0,0,1.00);
+	font-size: 14px;
+	text-align: right;
+	margin-bottom: 8px;
+}
+.editProf:hover{
+	color: rgba(255,255,255,1.00);
+}
+.anTD {
+}
+.fullROwrr {
+	position: absolute;
+	top: 33%;
+	bottom: 11%;
+	margin-top: 65px;
+}
+.btnTextrr {
+}
+.interRowrr {
+	position: relative;
+	top: 30%;
+	margin-top: 30%;
+
+}
+.goBtn {
+	height: 1.5in;
+	width: 153px;
+	color: rgba(255,255,255,1.00);
+	font-family: sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 31px;
+	text-align: center;
+	text-shadow: 0px 0px 3px rgba(0,0,0,1.00);
+	background-image: -webkit-linear-gradient(270deg,rgba(138,138,138,1.00) 0%,rgba(0,0,0,0.70) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(138,138,138,1.00) 0%,rgba(0,0,0,0.70) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(138,138,138,1.00) 0%,rgba(0,0,0,0.70) 100%);
+	background-image: linear-gradient(180deg,rgba(138,138,138,1.00) 0%,rgba(0,0,0,0.70) 100%);
+	text-transform: capitalize;
+	border: thin solid rgba(255,255,255,1.00);
+}
+.goBtn1 {
+	background-color: rgba(70,16,110,1.00);
+	
+}
+.goBtn2 {
+	background-color: rgba(20,135,34,1.00);
+}
+.fullbodySet {
+	background-color: rgba(0,0,0,1.00);
+}
